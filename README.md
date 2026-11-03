@@ -11,8 +11,8 @@
 
 ### 关于我
 
-- 🔭 **企业级 Agent 平台（Mooth）核心开发** —— 多 Agent 执行面 · 上下文分级压缩 · 工具 / Skill 检索装配 · Trace 驱动回归
-- 🧰 生产后端 **Go / Gin / MySQL / Redis / RocketMQ**；Agent 侧 **TypeScript / AI SDK**；**Claude Code** 重度实践（MCP、Skills、Memory）
+- 🔭 **企业级 Agent 平台（Mooth）核心开发** 
+- 🧰 生产后端 **Go / Gin / MySQL / Redis / RocketMQ**；
 - 🛠 业余自托管一套 **Cloudflare** 工具链（网盘 / Artifacts / 短链 / 监控），持续搭建本地 AI 辅助研发流程
 - ✍️ 技术博客整理中 · 📮 2389934506@qq.com
 
@@ -34,11 +34,7 @@
 ### 开源参与
 
 - 参与 **Open Manus** 开源社区 · **AdventureX** 黑客松
-- 深度跟进 [claude-code](https://github.com/anthropics/claude-code) 与 [cherry-studio](https://github.com/CherryHQ/cherry-studio) 源码，实践 MCP / Skills 生态
+- 
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lianminx&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=00000000" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianminx&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000" height="150" alt="Top Languages"/>
-</div>
+
