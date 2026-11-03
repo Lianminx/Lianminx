@@ -31,7 +31,7 @@
 
 ### 开源参与
 
-- 参与 **Open Manus** 开源社区 · **AdventureX** 黑客松
+- 参与 **Open-viking** 开源社区 · **AdventureX** 黑客松 · **PowerContext** 开源社区
 
 
 
