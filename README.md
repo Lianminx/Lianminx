@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="mailto:2389934506@qq.com"><img alt="Email" src="https://img.shields.io/badge/邮箱-2389934506@qq.com-3d5a9e?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
-  <a href="https://x.com/uylm415170"><img alt="X" src="https://img.shields.io/badge/X-@uylm415170-111111?style=flat-square&amp;logo=x&amp;logoColor=white"/></a>
 </div>
 
 <br/>
