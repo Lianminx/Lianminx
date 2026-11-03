@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="余廉民 · Go 后端 &amp; AI Agent 平台工程师"/>
+  <img src="./banner.svg" width="100%" alt="lianmin · Go 后端 &amp; AI Agent 平台工程师"/>
 </div>
 
 <div align="center">
