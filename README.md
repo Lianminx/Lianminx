@@ -1,24 +1,20 @@
-<h3 align="center">你好，我是余廉民（lianmin）👋</h3>
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="余廉民 · Go 后端 &amp; AI Agent 平台工程师"/>
+</div>
 
-<p align="center">
-  <strong>Go 后端 & AI Agent 平台工程师</strong> · 北京<br/>
-  墨菲未来科技 · 企业安全场景的 Agent 平台（Mooth）：<br/>
-  多 Agent 执行面 · 上下文分级压缩 · 工具/Skill 检索装配 · Trace 驱动回归
-</p>
+<div align="center">
+  <a href="mailto:2389934506@qq.com"><img alt="Email" src="https://img.shields.io/badge/邮箱-2389934506@qq.com-3d5a9e?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
+  <a href="https://x.com/uylm415170"><img alt="X" src="https://img.shields.io/badge/X-@uylm415170-111111?style=flat-square&amp;logo=x&amp;logoColor=white"/></a>
+</div>
 
-<p align="center">
-  <img alt="Focus" src="https://img.shields.io/badge/方向-Agent_平台_&_Go_后端-2e7d32?style=flat-square">
-  <img alt="MCP" src="https://img.shields.io/badge/MCP_/_Skills-重度实践-ff6f00?style=flat-square">
-</p>
+<br/>
 
 ### 关于我
 
-- 🔭 **在做**：企业级 Agent 平台核心开发——主 Agent 决策 + Worker 沙箱执行面、记忆与上下文工程、工具与 Skill 的检索装配、Langfuse Trace 归因与任务回归
-- 🧰 **日常**：Go / Gin / MySQL / Redis / RocketMQ 写生产后端；TypeScript / AI SDK 写 Agent；Claude Code 等 AI 编程工具重度实践（MCP、Skills、Memory）
-- 🌱 **近期关注**：Context Engineering、Agent 评测与回归、MCP 生态
-- 🛠 **业余**：持续搭建本地 AI 辅助研发流程，自托管一套 Cloudflare 工具链（网盘 / Artifacts / 短链 / 监控）
-- ✍️ **博客**：<!-- TODO: 博客上线后替换为链接 -->（整理中）
-- 📮 **联系**：2389934506@qq.com
+- 🔭 **企业级 Agent 平台（Mooth）核心开发** —— 多 Agent 执行面 · 上下文分级压缩 · 工具 / Skill 检索装配 · Trace 驱动回归
+- 🧰 生产后端 **Go / Gin / MySQL / Redis / RocketMQ**；Agent 侧 **TypeScript / AI SDK**；**Claude Code** 重度实践（MCP、Skills、Memory）
+- 🛠 业余自托管一套 **Cloudflare** 工具链（网盘 / Artifacts / 短链 / 监控），持续搭建本地 AI 辅助研发流程
+- ✍️ 技术博客整理中 · 📮 2389934506@qq.com
 
 ### 技术栈
 
@@ -26,21 +22,23 @@
   <img src="https://skillicons.dev/icons?i=go,py,ts,mysql,redis,docker,postgres,cloudflare,linux,git&perline=10" alt="tech stack"/>
 </a>
 
-### 个人项目
+### 精选项目
 
-| 项目 | 说明 |
-|---|---|
-| [mcd-budget-skill](https://github.com/Lianminx/mcd-budget-skill) | 🍟 基于 MCP 菜单/优惠券数据的麦当劳省钱搭配规划 Agent Skill（⭐15） |
-| [chatgpt-local-code-skill](https://github.com/Lianminx/chatgpt-local-code-skill) | 让 ChatGPT 通过 MCP + 内网隧道安全访问本地代码库 |
-| [zcode-acp-review](https://github.com/Lianminx/zcode-acp-review) | 通过 ACP 协议调用本机 Coding Agent 做方案与代码审查的 Agent Skill |
-| [SA](https://github.com/Lianminx/SA) | 股票量化分析系统（Python） |
+| 项目 | 说明 | 亮点 |
+|---|---|---|
+| [**mcd-budget-skill**](https://github.com/Lianminx/mcd-budget-skill) | 🍟 麦当劳省钱搭配规划 Agent Skill | 基于 MCP 菜单 / 优惠券数据 · ⭐ 15 |
+| [**chatgpt-local-code-skill**](https://github.com/Lianminx/chatgpt-local-code-skill) | 让 ChatGPT 安全访问本地代码库 | MCP + 内网隧道隔离 |
+| [**zcode-acp-review**](https://github.com/Lianminx/zcode-acp-review) | Coding Agent 方案与代码审查 Skill | ACP 协议接入本机 Agent |
+| [**SA**](https://github.com/Lianminx/SA) | 股票量化分析系统 | Python 数据管道 |
 
 ### 开源参与
 
-- 参与 **Open Manus** 开源社区 · AdventureX 黑客松
-- 深度使用并跟进 [claude-code](https://github.com/anthropics/claude-code)、[cherry-studio](https://github.com/CherryHQ/cherry-studio) 等项目源码
+- 参与 **Open Manus** 开源社区 · **AdventureX** 黑客松
+- 深度跟进 [claude-code](https://github.com/anthropics/claude-code) 与 [cherry-studio](https://github.com/CherryHQ/cherry-studio) 源码，实践 MCP / Skills 生态
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lianminx&show_icons=true&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
-<!-- 可选：贡献蛇动画，需要额外配置 GitHub Action，想要的话再说 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lianminx&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=00000000" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lianminx&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000" height="150" alt="Top Languages"/>
+</div>
