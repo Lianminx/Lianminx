@@ -4,9 +4,9 @@
 
 <br/>
 
-企业安全场景的 Agent 平台工程师
+企业安全场景的 Agent 平台工程师。
 
-做、核心开发：多 Agent 执行面、上下文工程、工具与 Skill 的检索装配，用 Trace 与真实任务回归验证效果。生产后端写 Go（MySQL · Redis · RocketMQ），Agent 侧写 TypeScript（AI SDK · MCP），Claude Code 重度实践者。
+负责 Agent 平台核心开发：多 Agent 执行面、上下文工程、工具与 Skill 的检索装配，用 Trace 与真实任务回归验证效果。生产后端写 Go（MySQL · Redis · RocketMQ），Agent 侧写 TypeScript（AI SDK · MCP），Claude Code 重度实践者。
 
 业余写一些小工具：
 
@@ -15,4 +15,4 @@
 
 参与 Open-viking、PowerContext 开源社区与 AdventureX 黑客松。
 
-[2389934506@qq.com](mailto:2389934506@qq.com) · [博客](https://lianmin.pages.dev) · 博客含 Skills、MCP、AI 开发流程等 10 篇文章
+[2389934506@qq.com](mailto:2389934506@qq.com) · [博客](https://lianmin.pages.dev)
