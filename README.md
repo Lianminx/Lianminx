@@ -26,15 +26,12 @@
 
 | 项目 | 说明 | 亮点 |
 |---|---|---|
-| [**mcd-budget-skill**](https://github.com/Lianminx/mcd-budget-skill) | 🍟 麦当劳省钱搭配规划 Agent Skill | 基于 MCP 菜单 / 优惠券数据 · ⭐ 15 |
 | [**chatgpt-local-code-skill**](https://github.com/Lianminx/chatgpt-local-code-skill) | 让 ChatGPT 安全访问本地代码库 | MCP + 内网隧道隔离 |
 | [**zcode-acp-review**](https://github.com/Lianminx/zcode-acp-review) | Coding Agent 方案与代码审查 Skill | ACP 协议接入本机 Agent |
-| [**SA**](https://github.com/Lianminx/SA) | 股票量化分析系统 | Python 数据管道 |
 
 ### 开源参与
 
 - 参与 **Open Manus** 开源社区 · **AdventureX** 黑客松
-- 
 
 
 
