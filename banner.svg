@@ -1,36 +1,28 @@
-<svg width="850" height="220" viewBox="0 0 850 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="lianmin · Go 后端 &amp; AI Agent 平台工程师">
+<svg width="850" height="200" viewBox="0 0 850 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lianmin · Go 后端 &amp; AI Agent 平台工程师">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1526"/>
-      <stop offset="1" stop-color="#17335a"/>
+      <stop offset="0" stop-color="#0a1424"/>
+      <stop offset="1" stop-color="#152a4c"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#3d5a9e"/>
       <stop offset="1" stop-color="#6e9fd8"/>
     </linearGradient>
-    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="1.2" cy="1.2" r="1.2" fill="#7fa3d4" opacity="0.10"/>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.1" fill="#7fa3d4" opacity="0.07"/>
     </pattern>
   </defs>
 
-  <rect width="850" height="220" rx="14" fill="url(#bg)"/>
-  <rect width="850" height="220" rx="14" fill="url(#dots)"/>
-  <rect x="1" y="1" width="848" height="218" rx="13" fill="none" stroke="#3d5a9e" stroke-opacity="0.55" stroke-width="1.5"/>
-
-  <!-- 终端窗口三点 -->
-  <circle cx="27" cy="31" r="5.5" fill="#ff5f57"/>
-  <circle cx="47" cy="31" r="5.5" fill="#febc2e"/>
-  <circle cx="67" cy="31" r="5.5" fill="#28c840"/>
+  <rect width="850" height="200" rx="14" fill="url(#bg)"/>
+  <rect width="850" height="200" rx="14" fill="url(#dots)"/>
+  <rect x="1" y="1" width="848" height="198" rx="13" fill="none" stroke="#3d5a9e" stroke-opacity="0.45" stroke-width="1"/>
 
   <!-- 姓名 -->
-  <text x="40" y="112" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="46" font-weight="700" fill="#f2f6fc" letter-spacing="6">Lianmin</text>
-  <rect x="43" y="128" width="118" height="4" rx="2" fill="url(#accent)"/>
+  <text x="425" y="92" text-anchor="middle" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="40" font-weight="600" fill="#f2f6fc" letter-spacing="12">Lianmin</text>
 
-  <!-- 职位 -->
-  <text x="40" y="164" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="21" fill="#9db8dd">Go 后端 &amp; AI Agent 平台工程师</text>
+  <!-- 渐变短分隔线 -->
+  <rect x="402" y="112" width="46" height="3" rx="1.5" fill="url(#accent)"/>
 
-  <!-- 底部标签 -->
-
-  <!-- 右侧装饰 -->
-  <text x="688" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="110" font-weight="700" fill="#3d5a9e" opacity="0.16">&gt;_</text>
+  <!-- 一行定位 -->
+  <text x="425" y="152" text-anchor="middle" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="16" fill="#8ba3c7" letter-spacing="3">Go 后端 &amp; AI Agent 平台工程师 · 北京</text>
 </svg>

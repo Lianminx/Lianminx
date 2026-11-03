@@ -1,36 +1,18 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="lianmin · Go 后端 &amp; AI Agent 平台工程师"/>
-</div>
-
-<div align="center">
-  <a href="mailto:2389934506@qq.com"><img alt="Email" src="https://img.shields.io/badge/邮箱-2389934506@qq.com-3d5a9e?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
+  <img src="./banner.svg" width="100%" alt="Lianmin · Go 后端 &amp; AI Agent 平台工程师"/>
 </div>
 
 <br/>
 
-### 关于我
+企业安全场景的 Agent 平台工程师，现居北京，任职于墨菲未来科技。
 
-- 🔭 **企业级 Agent 平台（Mooth）核心开发** 
-- 🧰 生产后端 **Go / Gin / MySQL / Redis / RocketMQ**；
-- 🛠 业余自托管一套 **Cloudflare** 工具链（网盘 / Artifacts / 短链 / 监控），持续搭建本地 AI 辅助研发流程
-- ✍️ 技术博客整理中 · 📮 2389934506@qq.com
+在 Mooth 平台做核心开发：多 Agent 执行面、上下文工程、工具与 Skill 的检索装配，用 Trace 与真实任务回归验证效果。生产后端写 Go（MySQL · Redis · RocketMQ），Agent 侧写 TypeScript（AI SDK · MCP），Claude Code 重度实践者。
 
-### 技术栈
+业余写一些小工具：
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,py,ts,mysql,redis,docker,postgres,cloudflare,linux,git&perline=10" alt="tech stack"/>
-</a>
+- [chatgpt-local-code-skill](https://github.com/Lianminx/chatgpt-local-code-skill) · 让 ChatGPT 安全访问本地代码库
+- [zcode-acp-review](https://github.com/Lianminx/zcode-acp-review) · 调用本机 Coding Agent 做方案与代码审查
 
-### 精选项目
+参与 Open-viking、PowerContext 开源社区与 AdventureX 黑客松。
 
-| 项目 | 说明 | 亮点 |
-|---|---|---|
-| [**chatgpt-local-code-skill**](https://github.com/Lianminx/chatgpt-local-code-skill) | 让 ChatGPT 安全访问本地代码库 | MCP + 内网隧道隔离 |
-| [**zcode-acp-review**](https://github.com/Lianminx/zcode-acp-review) | Coding Agent 方案与代码审查 Skill | ACP 协议接入本机 Agent |
-
-### 开源参与
-
-- 参与 **Open-viking** 开源社区 · **AdventureX** 黑客松 · **PowerContext** 开源社区
-
-
-
+[2389934506@qq.com](mailto:2389934506@qq.com) · 博客整理中
