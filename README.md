@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./banner.svg" width="100%" alt="Lianmin · Go 后端 &amp; AI Agent 平台工程师"/>
-</div>
-
-<br/>
-
 企业安全场景的 Agent 平台工程师。
 
 负责 Agent 平台核心开发：多 Agent 执行面、上下文工程、工具与 Skill 的检索装配，用 Trace 与真实任务回归验证效果。生产后端写 Go（MySQL · Redis · RocketMQ），Agent 侧写 TypeScript（AI SDK · MCP），Claude Code 重度实践者。
