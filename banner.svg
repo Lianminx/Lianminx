@@ -23,7 +23,7 @@
   <circle cx="67" cy="31" r="5.5" fill="#28c840"/>
 
   <!-- 姓名 -->
-  <text x="40" y="112" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="46" font-weight="700" fill="#f2f6fc" letter-spacing="6">lianmin</text>
+  <text x="40" y="112" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="46" font-weight="700" fill="#f2f6fc" letter-spacing="6">Lian_min</text>
   <rect x="43" y="128" width="118" height="4" rx="2" fill="url(#accent)"/>
 
   <!-- 职位 -->
