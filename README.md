@@ -15,4 +15,4 @@
 
 参与 Open-viking、PowerContext 开源社区与 AdventureX 黑客松。
 
-[2389934506@qq.com](mailto:2389934506@qq.com) · 博客整理中
+[2389934506@qq.com](mailto:2389934506@qq.com) · [博客](https://lianmin.pages.dev) · 博客含 Skills、MCP、AI 开发流程等 10 篇文章
