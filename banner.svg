@@ -24,5 +24,5 @@
   <rect x="402" y="112" width="46" height="3" rx="1.5" fill="url(#accent)"/>
 
   <!-- 一行定位 -->
-  <text x="425" y="152" text-anchor="middle" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="16" fill="#8ba3c7" letter-spacing="3">Go 后端 &amp; AI Agent 平台工程师 · 北京</text>
+  <text x="425" y="152" text-anchor="middle" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif" font-size="16" fill="#8ba3c7" letter-spacing="3">Go 后端 &amp; AI Agent 平台工程师</text>
 </svg>
