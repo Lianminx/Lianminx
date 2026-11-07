@@ -11,14 +11,21 @@
   </p>
   <p>
     <code>Go</code>
-    <code>TypeScript</code>
     <code>MySQL</code>
     <code>Redis</code>
     <code>RocketMQ</code>
     <code>MCP</code>
-    <code>Claude Code</code>
   </p>
 </div>
+
+
+
+
+
+
+
+
+
 
 <table>
 <tr>
@@ -27,9 +34,9 @@
 #### 实践
 
 <p>
-<strong>Agent 平台</strong> — <code>多 Agent · 上下文 · 工具与 Skill</code> — <code>2026.03 —</code><br/>
-<strong>后端服务</strong> — <code>缓存 · 熔断 · 异步事件</code> — <code>2025.04 — 2026.03</code><br/>
-<strong>研发平台实习</strong> — <code>慢查询 · 冷热数据</code> — <code>2024.11 — 2025.03</code><br/>
+<strong>Agent 平台</strong> — <code>2026.03 — 至今</code><br/>
+<strong>后端服务</strong> — <code>2025.04 — 2026.03</code><br/>
+<strong>研发平台实习</strong> — <code>2024.11 — 2025.03</code><br/>
 </p>
 
 </td>
@@ -41,6 +48,14 @@
 - [zcode-acp-review](https://github.com/Lianminx/zcode-acp-review) — 用本机 Coding Agent 做方案和代码审查
 - [open-artifacts](https://github.com/Lianminx/open-artifacts) — 把 Agent 产物发布成可分享页面
 - 参与 [OpenViking](https://github.com/volcengine/OpenViking)、[PowerContext](https://github.com/oceanbase/powercontext) 社区，以及 AdventureX
+
+
+
+
+
+
+
+
 
 
 </td>
