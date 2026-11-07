@@ -18,7 +18,8 @@
   </p>
 </div>
 
-<table>
+<div align="center">
+<table align="center" width="100%">
 <tr>
 <td valign="top" width="42%">
 
@@ -43,3 +44,4 @@
 </td>
 </tr>
 </table>
+</div>
