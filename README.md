@@ -32,8 +32,6 @@
 <strong>研发平台实习</strong> — <code>慢查询 · 冷热数据</code> — <code>2024.11 — 2025.03</code><br/>
 </p>
 
-生产后端写 Go。Agent 运行时写 TypeScript（AI SDK、MCP）。用 Trace 和真实任务回归验证，而不是只看协议是否返回成功。
-
 </td>
 <td valign="top" width="48%">
 
@@ -42,14 +40,8 @@
 - [chatgpt-local-code-skill](https://github.com/Lianminx/chatgpt-local-code-skill) — 让 ChatGPT 只读访问本地代码
 - [zcode-acp-review](https://github.com/Lianminx/zcode-acp-review) — 用本机 Coding Agent 做方案和代码审查
 - [open-artifacts](https://github.com/Lianminx/open-artifacts) — 把 Agent 产物发布成可分享页面
-- [agent-im](https://github.com/Lianminx/agent-im) — 把 IM 机器人接到 DeepSeek Harness
 - 参与 [OpenViking](https://github.com/volcengine/OpenViking)、[PowerContext](https://github.com/oceanbase/powercontext) 社区，以及 AdventureX
 
-#### 文章
-
-- [Skill 写给模型](https://lianmin.pages.dev/blog/write-skills-for-the-model/)
-- [读多写少时，把数据库移出请求路径](https://lianmin.pages.dev/blog/queries-moved-to-redis/)
-- [我的 AI 开发流程](https://lianmin.pages.dev/blog/my-ai-development-workflow/)
 
 </td>
 </tr>
