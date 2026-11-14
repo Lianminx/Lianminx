@@ -5,7 +5,7 @@
     <strong>Building agent platforms, and the backends they run on.</strong>
   </p>
   <p>
-    <a href="https://lianmin.pages.dev"><code>Blog · lianmin.pages.dev</code></a>
+    <a href="https://lianminx.github.io"><code>Blog · lianminx.github.io</code></a>
     &nbsp;
     <a href="mailto:2389934506@qq.com"><code>2389934506@qq.com</code></a>
   </p>
