@@ -36,8 +36,8 @@
 
 <h4 align="center">Open Source</h4>
 
-- [chatgpt-local-code-skill](https://github.com/Lianminx/chatgpt-local-code-skill)<br/>— Read-only local code access for ChatGPT
-- [zcode-acp-review](https://github.com/Lianminx/zcode-acp-review)<br/>— Design and code review with a local coding agent
+- [chatgpt-local-bridge](https://github.com/Lianminx/chatgpt-local-bridge)<br/>— Read-only local code access for ChatGPT
+- [agent-acp-bridge](https://github.com/Lianminx/agent-acp-bridge)<br/>— Design and code review with a local coding agent
 - [open-artifacts](https://github.com/Lianminx/open-artifacts)<br/>— Publish agent artifacts as shareable pages
 - Contributor to [OpenViking](https://github.com/volcengine/OpenViking) and [PowerContext](https://github.com/oceanbase/powercontext); AdventureX
 
